@@ -78,7 +78,7 @@ export default function Navbar() {
           ))}
 
           <a
-            href="https://github.com/"
+            href="https://github.com/Manar-Code-blip"
             target="_blank"
             rel="noreferrer"
             onClick={closeMenu}

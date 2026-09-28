@@ -17,7 +17,7 @@ export default function Contact() {
           </p>
 
           <a
-            href="mailto:your@email.com"
+            href="mailto:manarcode6@gmail.com"
             className="mt-10 inline-flex items-center rounded-full bg-white px-6 py-3 text-sm font-medium text-black transition-transform hover:scale-[1.02]"
           >
             Get in touch
@@ -27,7 +27,7 @@ export default function Contact() {
 
         <div className="mt-20 flex flex-wrap gap-x-8 gap-y-4 border-t border-white/10 pt-8">
           <a
-            href="https://github.com/"
+            href="https://github.com/Manar-Code-blip"
             target="_blank"
             rel="noreferrer"
             className="text-sm text-zinc-500 transition-colors hover:text-white"
@@ -36,7 +36,7 @@ export default function Contact() {
           </a>
 
           <a
-            href="https://instagram.com/"
+            href="https://www.instagram.com/manar_labs/"
             target="_blank"
             rel="noreferrer"
             className="text-sm text-zinc-500 transition-colors hover:text-white"
@@ -45,7 +45,7 @@ export default function Contact() {
           </a>
 
           <a
-            href="mailto:your@email.com"
+            href="mailto:manarcode6@gmail.com"
             className="text-sm text-zinc-500 transition-colors hover:text-white"
           >
             Email ↗
